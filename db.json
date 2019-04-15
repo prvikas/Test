@@ -2,7 +2,6 @@
 "users": [
     { "id": 1, "userName": "demo", "password":"demo" },
     { "id": 2, "userName": "demo1", "password":"demo1" },
-    { "id": 3, "userName": "demo2", "password":"demo2" }
   ],
 
 "employees":
@@ -38,7 +37,7 @@
     "bankName": "Axis",
     "iFSCCode": "Icici75564",
     "remarks1": "Ipsum mod esse cilluproident nisi.\r\n",
-    "remarks2": "Aute laboris sint desxcepteur. Enim anim nostrud non ullamco consectetur ipsum et ullamco commodo id aute.\r\n",
+    "remarks2": "Aute laboris sin id aute.\r\n",
     "location": "Telangana",
     "subLocation": "JIT",
     "designation": "Hamali"
@@ -60,8 +59,8 @@
     "accommodationType": "Without Food",
     "phone1": "+91 (913) 459-3180",
     "phone2": "+91 (904) 485-2939",
-    "address": "898 Stillwell Place, Needmore, Louisiana, 7962",
-    "address2": "994 Richmond Street, Fairfield, Florida, 4739",
+    "address": "898 Stillweana, 7962",
+    "address2": "994 Richmoida, 4739",
     "company": "SURETECH",
     "emailId": "leblancmoon@suretech.com",
     "eSINo": 9064290365,
@@ -73,8 +72,8 @@
     "bankAccountNumber": 218295891525802,
     "bankName": "Axis",
     "iFSCCode": "Icici75564",
-    "remarks1": "Velit dos eiusmod. Ullamco sit nisi veniam in elit culpa et velit quis aliqua dolor ullamco.\r\n",
-    "remarks2": "Proido officia consectetur nostrud. Ad minim commodo commodo consequat do fugiat ullamco.\r\n",
+    "remarks1": "Velit r ullamco.\r\n",
+    "remarks2": "Proido amco.\r\n",
     "location": "Karnataka",
     "subLocation": "Malur",
     "designation": "Cook"
