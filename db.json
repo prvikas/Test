@@ -2,5 +2,5 @@
 "users": [
     { "id": 1, "userName": "demo", "password":"demo" },
     { "id": 2, "userName": "demo1", "password":"demo1" },
-  ],
+  ]
 }
