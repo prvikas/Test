@@ -3,43 +3,4 @@
     { "id": 1, "userName": "demo", "password":"demo" },
     { "id": 2, "userName": "demo1", "password":"demo1" },
   ],
-
-"employees":
-[
-  {
-    "_id": "5cb4accadcff643d374647bd",
-    "index": 5,
-    "guid": "02097556-d74d-4a07-82a6-b6bf637f466a",
-    "isActive": false,
-    "balance": "$2,358.29",
-    "picture": "http://placehold.it/32x32",
-    "name": "Booth Emerson",
-    "gender": "male",
-    "fatherName": "Leblanc Moon",
-    "dOB": "2001-02-01T03:39:38 -06:-30",
-    "dOJ": "2007-09-20T12:07:55 -06:-30",
-    "age": 35,
-    "accommodationType": "Without Food",
-    "phone1": "+91 (913) 459-3180",
-    "phone2": "+91 (904) 485-2939",
-    "address": "898 Stillweana, 7962",
-    "address2": "994 Richmoida, 4739",
-    "company": "SURETECH",
-    "emailId": "leblancmoon@suretech.com",
-    "eSINo": 9064290365,
-    "pANNo": 4595122372,
-    "aadharNo": 5841253689,
-    "uANNo": 9731636550,
-    "uANPwd": 9776656901,
-    "uANActivationDate": "2011-04-11T03:15:19 -06:-30",
-    "bankAccountNumber": 218295891525802,
-    "bankName": "Axis",
-    "iFSCCode": "Icici75564",
-    "remarks1": "Velit r ullamco.\r\n",
-    "remarks2": "Proido amco.\r\n",
-    "location": "Karnataka",
-    "subLocation": "Malur",
-    "designation": "Cook"
-  }
-]
 }
