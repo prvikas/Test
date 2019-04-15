@@ -6,43 +6,6 @@
 
 "employees":
 [
-  
-  {
-    "_id": "5cb4accab8b9bc8694ee0579",
-    "index": 2,
-    "guid": "6d021cf9-ff49-469f-bb5e-15b208ffc700",
-    "isActive": true,
-    "balance": "$3,131.35",
-    "picture": "http://placehold.it/32x32",
-    "name": "Tammi Farmer",
-    "gender": "female",
-    "fatherName": "Weeks Price",
-    "dOB": "1994-06-14T08:05:55 -06:-30",
-    "dOJ": "2009-06-07T09:43:20 -06:-30",
-    "age": 36,
-    "accommodationType": "Without Food",
-    "phone1": "+91 (967) 476-2653",
-    "phone2": "+91 (896) 565-2895",
-    "address": "740 Rockaway Avenue, Gerton, Oregon, 5987",
-    "address2": "389 Onderdonk Avenue, Day, Palau, 219",
-    "company": "MICRONAUT",
-    "emailId": "weeksprice@micronaut.com",
-    "eSINo": 2873620035,
-    "pANNo": 6776762506,
-    "aadharNo": 4443968741,
-    "uANNo": 3216496033,
-    "uANPwd": 5623770389,
-    "uANActivationDate": "2012-12-25T02:45:25 -06:-30",
-    "bankAccountNumber": 545415003688724,
-    "bankName": "Axis",
-    "iFSCCode": "Icici75564",
-    "remarks1": "Ipsum mod esse cilluproident nisi.\r\n",
-    "remarks2": "Aute laboris sin id aute.\r\n",
-    "location": "Telangana",
-    "subLocation": "JIT",
-    "designation": "Hamali"
-  },
- 
   {
     "_id": "5cb4accadcff643d374647bd",
     "index": 5,
